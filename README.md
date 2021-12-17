@@ -22,4 +22,3 @@ elif enter_code == "Amogus":
     print("Welcome Amogus to the server!"+server_link)
 else:
     print("You are not yet allowed to join the server, if you think you made a typo, please try again")
-    
